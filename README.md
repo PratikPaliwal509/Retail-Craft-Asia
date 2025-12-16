@@ -20,7 +20,7 @@ A modern business website developed for **RetailCraftAsia**, focused on deliveri
 
 ## 📷 Homepage Preview
 
-![RetailCraftAsia Homepage](./screenshots/retailcraftasia-home.png)
+![RetailCraftAsia Homepage](public/screenshots/retailcraftasia-home.png)
 
 ## 🔗 Google Sheets Integration (Contact Form)
 
